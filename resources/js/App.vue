@@ -30,7 +30,7 @@
                     <a href=""><i class="fab fa-twitter"></i></a>
                 </div>
 
-                <small>2022 Komar Natalia Blog</small>
+                <small>2022 Komar Natalia Blog.</small>
             </footer>
         </div>
         <!-- Menu Button -->
